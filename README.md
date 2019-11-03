@@ -11,7 +11,3 @@ With PhotoBook, you can connect with a community of photographers to:
 - explore the best photography locations around you
 
 ...and much more!
-
-# Product Website
-
-To see the latest version of PhotoBook in action, navigate to https://su19-codeu-43-4269.appspot.com. 
